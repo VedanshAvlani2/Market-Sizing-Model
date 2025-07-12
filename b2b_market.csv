@@ -1,0 +1,501 @@
+Industry,Region,Company_Size,Avg_Units_Per_Employee,Unit_Price_USD,Annual_Usage,Estimated_Annual_Spend
+Technology,Australia,3656,2.95,379.8,10785.2,4096218.96
+Finance,Middle East,2744,1.99,123.07,5460.56,672031.12
+Education,Middle East,4829,0.7,134.76,3380.3,455529.23
+Technology,Australia,4198,1.72,378.87,7220.56,2735653.57
+Healthcare,North America,2068,1.99,120.27,4115.32,494949.54
+Construction,Asia,4166,2.66,155.55,11081.56,1723736.66
+Education,Europe,4800,0.82,483.51,3936.0,1903095.36
+Education,North America,736,0.92,164.89,677.12,111650.32
+Technology,Europe,4564,1.29,347.73,5887.56,2047281.24
+Retail,Australia,4996,1.3,490.38,6494.8,3184920.02
+Healthcare,Africa,4603,2.7,218.43,12428.1,2714669.88
+Technology,Europe,1843,1.25,57.88,2303.75,133341.05
+Healthcare,Asia,2101,2.4,159.87,5042.4,806128.49
+Healthcare,Africa,3439,1.98,423.89,6809.22,2886360.27
+Construction,Europe,1594,2.22,439.07,3538.68,1553728.23
+Education,Australia,269,3.01,395.83,809.69,320499.59
+Finance,Africa,693,1.71,100.9,1185.03,119569.53
+Construction,Australia,4553,2.81,407.98,12793.93,5219667.56
+Construction,Europe,2185,1.77,463.41,3867.45,1792215.0
+Healthcare,Australia,790,1.56,320.27,1232.4,394700.75
+Transportation,Asia,3982,3.38,473.39,13459.16,6371431.75
+Education,Europe,4383,1.05,422.08,4602.15,1942475.47
+Retail,Europe,2004,0.77,350.14,1543.08,540294.03
+Construction,Europe,1097,2.81,309.73,3082.57,954764.41
+Finance,North America,255,0.7,206.86,178.5,36924.51
+Transportation,North America,408,3.01,121.68,1228.08,149432.77
+Transportation,North America,3057,1.81,322.23,5533.17,1782953.37
+Retail,Asia,4878,3.25,193.15,15853.5,3062103.52
+Construction,Africa,1868,2.66,439.9,4968.88,2185810.31
+Finance,Australia,4739,2.33,497.0,11041.87,5487809.39
+Education,Middle East,2834,3.35,388.59,9493.9,3689234.6
+Manufacturing,Europe,3394,1.69,90.72,5735.86,520357.22
+Finance,Australia,3298,3.36,179.91,11081.28,1993633.08
+Retail,Europe,1272,0.91,99.1,1157.52,114710.23
+Transportation,Asia,4001,1.95,342.73,7801.95,2673962.32
+Education,Europe,4693,1.31,394.34,6147.83,2424335.28
+Finance,North America,2142,2.12,466.55,4541.04,2118622.21
+Manufacturing,Middle East,4550,0.99,247.18,4504.5,1113422.31
+Manufacturing,South America,2170,3.02,455.62,6553.4,2985860.11
+Healthcare,Europe,4879,3.04,445.05,14832.16,6601052.81
+Healthcare,Australia,1349,3.37,192.74,4546.13,876221.1
+Technology,North America,1378,0.96,441.01,1322.88,583403.31
+Retail,South America,2502,2.37,219.05,5929.74,1298909.55
+Construction,Middle East,4562,1.92,183.59,8759.04,1608072.15
+Finance,South America,2037,1.53,342.08,3116.61,1066129.95
+Finance,North America,1351,1.55,197.77,2094.05,414140.27
+Construction,Africa,4364,1.74,333.59,7593.36,2533068.96
+Technology,Africa,4281,2.61,324.42,11173.41,3624877.67
+Transportation,South America,1378,2.29,303.55,3155.62,957888.45
+Transportation,Asia,4657,1.88,221.19,8755.16,1936553.84
+Technology,Australia,4874,0.73,296.82,3558.02,1056091.5
+Transportation,Australia,3197,0.73,318.42,2333.81,743131.78
+Healthcare,South America,2148,0.51,295.56,1095.48,323780.07
+Finance,Europe,2200,3.4,249.99,7480.0,1869925.2
+Technology,Europe,4912,0.52,56.6,2554.24,144569.98
+Finance,Australia,157,0.81,314.18,127.17,39954.27
+Construction,Australia,3492,1.44,125.8,5028.48,632582.78
+Manufacturing,Africa,2852,2.92,339.16,8327.84,2824470.21
+Healthcare,Asia,3599,3.39,391.7,12200.61,4778978.94
+Education,North America,3051,2.87,275.2,8756.37,2409753.02
+Healthcare,Europe,4184,2.57,294.06,10752.88,3161991.89
+Technology,Australia,2613,2.06,478.17,5382.78,2573883.91
+Education,Africa,4320,0.76,431.23,3283.2,1415814.34
+Manufacturing,Middle East,3838,3.37,461.41,12934.06,5967904.62
+Technology,Africa,4158,2.78,416.19,11559.24,4810840.1
+Retail,Europe,3843,2.42,99.01,9300.06,920798.94
+Finance,Europe,4062,2.78,117.05,11292.36,1321770.74
+Manufacturing,Africa,1926,2.67,286.98,5142.42,1475771.69
+Finance,North America,780,2.41,160.73,1879.8,302140.25
+Transportation,South America,3465,3.44,264.51,11919.6,3152853.4
+Retail,Europe,919,3.21,227.46,2949.99,671004.73
+Retail,Africa,4475,2.44,297.24,10919.0,3245563.56
+Manufacturing,Australia,2967,2.58,386.09,7654.86,2955464.9
+Retail,Africa,1739,0.65,371.97,1130.35,420456.29
+Education,Asia,300,2.51,284.56,753.0,214273.68
+Retail,South America,3286,0.63,420.08,2070.18,869641.21
+Finance,Middle East,1907,2.26,243.89,4309.82,1051122.0
+Finance,North America,3286,3.5,453.52,11501.0,5215933.52
+Technology,Middle East,686,2.17,82.08,1488.62,122185.93
+Finance,South America,4208,1.92,479.6,8079.36,3874861.06
+Technology,South America,691,1.44,344.61,995.04,342900.73
+Finance,South America,1989,0.86,221.03,1710.54,378080.66
+Education,Middle East,4176,2.69,138.72,11233.44,1558302.8
+Construction,Australia,3142,1.08,265.63,3393.36,901378.22
+Technology,South America,4719,0.85,137.55,4011.15,551733.68
+Healthcare,Africa,4797,1.77,124.85,8490.69,1060062.65
+Transportation,Middle East,3920,2.89,327.81,11328.8,3713693.93
+Manufacturing,South America,543,2.74,285.39,1487.82,424608.95
+Finance,Africa,2413,0.66,351.54,1592.58,559855.57
+Retail,Australia,3137,1.87,468.32,5866.19,2747254.1
+Construction,Asia,2613,2.07,289.52,5408.91,1565987.62
+Finance,Australia,1988,2.43,311.42,4830.84,1504420.19
+Retail,South America,1773,2.45,90.33,4343.85,392379.97
+Transportation,Middle East,2316,1.59,372.94,3682.44,1373329.17
+Transportation,Europe,2281,2.18,229.96,4972.58,1143494.5
+Transportation,South America,2306,1.94,489.53,4473.64,2189980.99
+Retail,Europe,4222,3.15,420.43,13299.3,5591424.7
+Finance,Africa,2898,2.09,285.12,6056.82,1726920.52
+Transportation,Asia,4163,1.82,105.45,7576.66,798958.8
+Education,North America,3664,1.71,436.74,6265.44,2736368.27
+Technology,Australia,4452,2.22,409.9,9883.44,4051222.06
+Retail,Asia,2075,2.91,133.06,6038.25,803449.54
+Retail,South America,4740,2.12,182.88,10048.8,1837724.54
+Finance,Europe,1296,2.48,407.03,3214.08,1308226.98
+Retail,Australia,2786,2.71,133.35,7550.06,1006800.5
+Retail,Europe,322,2.06,462.99,663.32,307110.53
+Transportation,Middle East,658,1.78,241.04,1171.24,282315.69
+Finance,Europe,75,3.13,89.17,234.75,20932.66
+Transportation,Middle East,4841,1.75,417.09,8471.75,3533482.21
+Technology,Africa,545,1.89,218.08,1030.05,224633.3
+Construction,Australia,4589,3.47,286.92,15923.83,4568865.3
+Technology,Australia,4143,0.5,100.54,2071.5,208268.61
+Construction,North America,2145,1.06,51.16,2273.7,116322.49
+Transportation,South America,3307,1.65,337.09,5456.55,1839348.44
+Technology,Middle East,384,3.3,281.83,1267.2,357134.98
+Finance,North America,4641,0.71,317.09,3295.11,1044846.43
+Manufacturing,Europe,4998,0.53,407.18,2648.94,1078595.39
+Transportation,Europe,1666,0.66,340.97,1099.56,374916.97
+Construction,North America,938,0.77,128.65,722.26,92918.75
+Education,Australia,2817,0.61,212.35,1718.37,364895.87
+Construction,Europe,1551,1.94,457.65,3008.94,1377041.39
+Education,Africa,3365,2.24,396.48,7537.6,2988507.65
+Retail,Africa,1926,1.32,300.49,2542.32,763941.74
+Technology,North America,3106,1.69,165.04,5249.14,866318.07
+Education,Middle East,4600,0.78,185.93,3588.0,667116.84
+Construction,Middle East,2095,1.51,379.38,3163.45,1200149.66
+Retail,North America,733,2.07,433.03,1517.31,657040.75
+Manufacturing,Middle East,1082,2.7,352.14,2921.4,1028741.8
+Finance,Australia,1996,0.51,414.29,1017.96,421730.65
+Finance,Australia,1316,1.9,395.0,2500.4,987658.0
+Finance,Middle East,145,1.39,117.37,201.55,23655.92
+Education,Africa,4652,3.06,240.78,14235.12,3427532.19
+Manufacturing,Middle East,3616,2.65,118.84,9582.4,1138772.42
+Education,Australia,3303,2.27,155.86,7497.81,1168608.67
+Technology,Asia,1623,1.33,441.17,2158.59,952305.15
+Education,South America,86,3.23,262.8,277.78,73000.58
+Manufacturing,Europe,252,0.64,290.91,161.28,46917.96
+Manufacturing,Asia,2176,0.83,130.3,1806.08,235332.22
+Technology,Middle East,1189,1.67,190.52,1985.63,378302.23
+Manufacturing,Africa,2178,0.87,153.61,1894.86,291069.44
+Construction,North America,4226,3.37,142.78,14241.62,2033418.5
+Manufacturing,Middle East,1513,2.89,337.08,4372.57,1473905.9
+Finance,Africa,4738,1.28,165.6,6064.64,1004304.38
+Construction,South America,4027,2.27,334.41,9141.29,3056938.79
+Construction,Middle East,2492,3.45,76.3,8597.4,655981.62
+Technology,Australia,2680,3.15,113.8,8442.0,960699.6
+Healthcare,North America,2759,2.3,173.54,6345.7,1101232.78
+Healthcare,Africa,1781,3.21,318.67,5717.01,1821839.58
+Manufacturing,Africa,3534,3.47,354.13,12262.98,4342689.11
+Construction,Africa,1995,2.73,249.22,5446.35,1357339.35
+Healthcare,South America,2382,0.69,250.61,1643.58,411897.58
+Healthcare,Middle East,896,1.7,376.03,1523.2,572768.9
+Manufacturing,South America,3832,3.01,57.12,11534.32,658840.36
+Healthcare,Europe,3468,1.19,203.49,4126.92,839786.95
+Education,Europe,1332,2.99,418.42,3982.68,1666432.97
+Retail,Middle East,1480,0.86,321.45,1272.8,409141.56
+Technology,Australia,2729,0.64,201.75,1746.56,352368.48
+Retail,South America,2344,1.65,457.49,3867.6,1769388.32
+Manufacturing,North America,1753,0.61,397.68,1069.33,425251.15
+Finance,Africa,1625,3.37,169.2,5476.25,926581.5
+Technology,Africa,2583,2.98,340.38,7697.34,2620020.59
+Manufacturing,Middle East,3441,2.9,318.09,9978.9,3174188.3
+Construction,Australia,3537,2.39,230.53,8453.43,1948769.22
+Finance,Europe,2417,1.15,215.13,2779.55,597964.59
+Retail,Europe,3755,2.05,204.6,7697.75,1574959.65
+Manufacturing,Africa,2890,2.29,327.72,6618.1,2168883.73
+Construction,Middle East,1180,2.08,249.08,2454.4,611341.95
+Technology,South America,4874,1.28,424.34,6238.72,2647338.44
+Technology,Europe,262,2.05,351.32,537.1,188693.97
+Transportation,South America,2610,1.97,81.47,5141.7,418894.3
+Construction,Australia,1083,3.49,338.08,3779.67,1277830.83
+Education,Europe,4344,3.19,172.02,13857.36,2383743.07
+Healthcare,Europe,2615,1.89,316.77,4942.35,1565588.21
+Finance,Asia,939,2.37,356.06,2225.43,792386.61
+Construction,Europe,25,2.74,153.87,68.5,10540.1
+Transportation,North America,487,0.6,255.59,292.2,74683.4
+Healthcare,Middle East,4190,3.18,135.65,13324.2,1807427.73
+Healthcare,Middle East,23,3.08,73.55,70.84,5210.28
+Manufacturing,South America,665,1.87,220.31,1243.55,273966.5
+Healthcare,Australia,137,1.67,213.32,228.79,48805.48
+Education,Europe,2948,1.32,497.97,3891.36,1937780.54
+Technology,North America,2571,1.93,250.86,4962.03,1244774.85
+Transportation,South America,4309,0.63,200.11,2714.67,543232.61
+Healthcare,Asia,866,3.06,311.21,2649.96,824694.05
+Manufacturing,South America,2782,0.61,89.95,1697.02,152646.95
+Education,South America,1161,1.49,482.75,1729.89,835104.4
+Retail,Europe,1830,3.29,335.73,6020.7,2021329.61
+Technology,Asia,743,2.71,389.68,2013.53,784632.37
+Technology,South America,244,1.34,126.72,326.96,41432.37
+Transportation,North America,4647,1.26,234.27,5855.22,1371702.39
+Technology,North America,4228,0.52,240.21,2198.56,528116.1
+Healthcare,Middle East,4674,2.59,419.81,12105.66,5082077.12
+Manufacturing,Asia,2068,0.65,50.56,1344.2,67962.75
+Technology,Asia,4769,2.1,185.38,10014.9,1856562.16
+Technology,Middle East,4435,3.39,491.56,15034.65,7390432.55
+Retail,South America,1593,0.83,263.7,1322.19,348661.5
+Retail,Asia,1848,3.18,222.14,5876.64,1305436.81
+Finance,North America,1937,3.47,103.92,6721.39,698486.85
+Education,North America,4254,0.68,488.37,2892.72,1412717.67
+Healthcare,Europe,2046,3.15,59.01,6444.9,380313.55
+Technology,Asia,3764,2.05,381.73,7716.2,2945505.03
+Construction,South America,921,3.22,395.87,2965.62,1173999.99
+Technology,Middle East,4805,2.21,159.65,10619.05,1695331.33
+Manufacturing,Middle East,2059,2.49,352.2,5126.91,1805697.7
+Finance,South America,29,2.13,91.82,61.77,5671.72
+Education,Australia,280,3.09,165.67,865.2,143337.68
+Construction,Africa,1693,2.7,404.56,4571.1,1849284.22
+Finance,Europe,2239,2.06,439.11,4612.34,2025324.62
+Transportation,Middle East,2080,3.1,323.82,6448.0,2087991.36
+Education,Asia,3733,1.24,278.08,4628.92,1287210.07
+Technology,Europe,1639,0.97,121.69,1589.83,193466.41
+Technology,Asia,340,0.98,78.4,333.2,26122.88
+Education,Australia,1362,1.5,102.94,2043.0,210306.42
+Technology,North America,2396,1.22,152.31,2923.12,445220.41
+Healthcare,Europe,2852,3.29,203.75,9383.08,1911802.55
+Education,Middle East,2844,0.82,221.41,2332.08,516345.83
+Finance,Europe,2014,2.6,205.84,5236.4,1077860.58
+Education,Europe,2978,1.07,157.57,3186.46,502090.5
+Construction,Europe,2058,3.14,279.38,6462.12,1805387.09
+Technology,Africa,3510,3.38,421.38,11863.8,4999168.04
+Healthcare,Europe,3697,1.9,175.87,7024.3,1235363.64
+Healthcare,Asia,1138,3.14,474.07,3573.32,1694003.81
+Transportation,North America,1624,0.52,443.0,844.48,374104.64
+Finance,Australia,4047,2.96,122.79,11979.12,1470916.14
+Retail,South America,255,1.19,403.82,303.45,122539.18
+Retail,Europe,1989,3.23,308.56,6424.47,1982334.46
+Education,Middle East,4449,0.5,304.96,2224.5,678383.52
+Transportation,Europe,1928,2.17,225.97,4183.76,945404.25
+Manufacturing,Middle East,395,2.77,275.52,1094.15,301460.21
+Education,Asia,3550,1.28,228.73,4544.0,1039349.12
+Transportation,Middle East,2655,1.08,292.88,2867.4,839804.11
+Finance,South America,1590,0.75,332.58,1192.5,396601.65
+Finance,North America,2580,1.48,353.44,3818.4,1349575.3
+Finance,Middle East,3411,2.18,289.62,7435.98,2153608.53
+Finance,Middle East,2985,0.85,374.64,2537.25,950555.34
+Finance,North America,3663,1.63,113.58,5970.69,678150.97
+Transportation,South America,3870,0.53,145.39,2051.1,298209.43
+Transportation,Europe,892,2.96,418.43,2640.32,1104789.1
+Healthcare,Middle East,1272,0.89,195.14,1132.08,220914.09
+Construction,North America,1334,1.35,60.3,1800.9,108594.27
+Retail,Asia,4840,0.56,119.21,2710.4,323106.78
+Technology,North America,2918,1.8,150.63,5252.4,791169.01
+Finance,Asia,97,3.02,480.8,292.94,140845.55
+Manufacturing,South America,2641,1.68,307.87,4436.88,1365982.25
+Technology,Europe,4247,1.04,469.73,4416.88,2074741.04
+Transportation,North America,620,2.76,308.82,1711.2,528452.78
+Manufacturing,Australia,1085,2.87,265.71,3113.95,827407.65
+Manufacturing,Australia,2156,1.02,191.18,2199.12,420427.76
+Manufacturing,Africa,2469,2.81,322.87,6937.89,2240036.54
+Healthcare,Middle East,2363,3.34,112.64,7892.42,889002.19
+Transportation,South America,1883,1.0,454.22,1883.0,855296.26
+Manufacturing,North America,1338,2.81,423.2,3759.78,1591138.9
+Finance,Australia,4731,2.63,192.89,12442.53,2400039.61
+Education,Middle East,3617,1.92,478.76,6944.64,3324815.85
+Manufacturing,Australia,3782,0.67,421.34,2533.94,1067650.28
+Healthcare,North America,4690,0.72,349.84,3376.8,1181339.71
+Technology,Asia,2210,3.06,104.79,6762.6,708652.85
+Transportation,North America,1012,3.47,265.21,3511.64,931322.04
+Construction,Africa,2732,2.53,277.75,6911.96,1919796.89
+Healthcare,North America,2212,1.84,154.65,4070.08,629437.87
+Manufacturing,North America,1268,2.44,85.98,3093.92,266015.24
+Transportation,Africa,3074,2.28,399.53,7008.72,2800193.9
+Education,South America,4618,1.65,104.92,7619.7,799458.92
+Manufacturing,North America,4053,0.7,317.43,2837.1,900580.65
+Healthcare,Africa,2017,2.96,471.4,5970.32,2814408.85
+Retail,Middle East,4936,1.62,444.25,7996.32,3552365.16
+Finance,Asia,3707,2.96,174.99,10972.72,1920116.27
+Construction,Asia,2171,1.26,433.15,2735.46,1184864.5
+Technology,North America,4038,0.5,50.15,2019.0,101252.85
+Healthcare,South America,3130,0.98,57.96,3067.4,177786.5
+Transportation,South America,1990,1.91,321.15,3800.9,1220659.03
+Construction,Middle East,217,3.33,214.16,722.61,154754.16
+Construction,North America,2646,0.81,223.91,2143.26,479897.35
+Construction,Asia,1222,3.06,304.0,3739.32,1136753.28
+Manufacturing,South America,2055,2.08,136.3,4274.4,582600.72
+Finance,North America,497,2.98,145.29,1481.06,215183.21
+Manufacturing,Australia,1274,1.4,268.07,1783.6,478129.65
+Transportation,South America,942,3.02,389.41,2844.84,1107809.14
+Manufacturing,Africa,439,2.82,328.77,1237.98,407010.68
+Retail,Australia,2224,1.19,183.81,2646.56,486464.19
+Finance,South America,2617,0.89,243.65,2329.13,567492.52
+Finance,Asia,1140,3.1,126.8,3534.0,448111.2
+Transportation,Europe,3088,3.39,83.58,10468.32,874942.19
+Technology,Australia,970,0.59,402.21,572.3,230184.78
+Retail,Middle East,2356,2.69,169.42,6337.64,1073722.97
+Healthcare,Middle East,2263,3.23,129.99,7309.49,950160.61
+Manufacturing,Asia,2665,3.07,361.23,8181.55,2955421.31
+Education,South America,1877,3.39,328.12,6363.03,2087837.4
+Manufacturing,North America,4632,2.78,334.94,12876.96,4313008.98
+Construction,South America,1885,1.83,153.0,3449.55,527781.15
+Manufacturing,Asia,2932,1.44,154.69,4222.08,653113.56
+Healthcare,Middle East,2873,1.46,149.36,4194.58,626502.47
+Manufacturing,South America,4930,2.67,128.19,13163.1,1687377.79
+Retail,Middle East,3248,2.74,345.08,8899.52,3071046.36
+Retail,Australia,3739,1.1,431.61,4112.9,1775168.77
+Finance,North America,3248,3.1,375.94,10068.8,3785264.67
+Transportation,Australia,2391,2.64,406.44,6312.24,2565546.83
+Technology,Middle East,2911,2.19,232.16,6375.09,1480040.89
+Education,Middle East,3776,1.91,344.33,7212.16,2483363.05
+Construction,Europe,4245,2.13,209.41,9041.85,1893453.81
+Manufacturing,Europe,114,0.98,286.48,111.72,32005.55
+Manufacturing,Australia,2694,1.11,266.74,2990.34,797643.29
+Healthcare,Africa,1975,0.77,129.6,1520.75,197089.2
+Transportation,Australia,813,0.96,224.19,780.48,174975.81
+Retail,Europe,1854,1.86,483.72,3448.44,1668079.4
+Education,Middle East,2136,2.09,161.86,4464.24,722581.89
+Finance,Asia,4126,0.55,110.21,2269.3,250099.55
+Retail,Australia,3345,2.89,238.36,9667.05,2304238.04
+Construction,Middle East,2939,1.38,405.65,4055.82,1645243.38
+Transportation,Asia,2617,3.24,311.97,8479.08,2645218.59
+Construction,Asia,3225,3.4,356.44,10965.0,3908364.6
+Technology,Europe,4827,1.06,135.36,5116.62,692585.68
+Finance,Australia,834,1.89,328.53,1576.26,517848.7
+Technology,South America,365,0.5,195.58,182.5,35693.35
+Healthcare,North America,2369,2.29,425.44,5425.01,2308016.25
+Construction,Europe,382,2.32,333.18,886.24,295277.44
+Healthcare,Europe,2463,1.24,139.49,3054.12,426019.2
+Manufacturing,South America,2285,2.18,79.08,4981.3,393921.2
+Technology,North America,2208,1.18,69.18,2605.44,180244.34
+Transportation,Middle East,3025,0.98,217.13,2964.5,643681.88
+Construction,Africa,3301,2.45,169.63,8087.45,1371874.14
+Education,Australia,1004,1.48,340.74,1485.92,506312.38
+Finance,Africa,1659,2.27,274.7,3765.93,1034500.97
+Retail,Middle East,847,1.8,169.71,1524.6,258739.87
+Transportation,Europe,2750,3.45,117.16,9487.5,1111555.5
+Transportation,North America,3551,0.95,107.24,3373.45,361768.78
+Healthcare,Europe,4471,1.89,439.1,8450.19,3710478.43
+Technology,Asia,2955,2.54,159.57,7505.7,1197684.55
+Construction,Europe,3896,1.69,343.27,6584.24,2260172.06
+Construction,Europe,146,3.42,414.81,499.32,207122.93
+Manufacturing,Middle East,3197,2.67,326.34,8535.99,2785634.98
+Manufacturing,Middle East,3076,2.47,436.8,7597.72,3318684.1
+Finance,Middle East,623,2.77,226.58,1725.71,391011.37
+Healthcare,Africa,3469,3.36,480.3,11655.84,5598299.95
+Transportation,Asia,4166,3.22,109.92,13414.52,1474524.04
+Construction,Middle East,3553,2.67,95.97,9486.51,910420.36
+Education,North America,3387,2.75,346.41,9314.25,3226549.34
+Healthcare,Africa,3388,0.94,474.27,3184.72,1510417.15
+Finance,South America,3817,0.81,414.0,3091.77,1279992.78
+Finance,North America,1812,2.21,84.39,4004.52,337941.44
+Healthcare,Australia,2881,0.56,175.72,1613.36,283499.62
+Finance,Australia,3496,1.95,468.64,6817.2,3194812.61
+Healthcare,North America,3437,1.13,163.88,3883.81,636478.78
+Retail,Middle East,1665,1.54,401.53,2564.1,1029563.07
+Healthcare,South America,1225,2.83,421.31,3466.75,1460576.44
+Technology,South America,3050,3.32,272.95,10126.0,2763891.7
+Healthcare,Africa,2892,0.72,223.86,2082.24,466130.25
+Finance,South America,3092,2.1,252.56,6493.2,1639922.59
+Construction,Australia,1874,3.15,152.13,5903.1,898038.6
+Technology,Asia,4041,0.75,450.23,3030.75,1364534.57
+Finance,Middle East,4682,2.97,252.78,13905.54,3515042.4
+Manufacturing,South America,2728,1.57,447.11,4282.96,1914954.25
+Manufacturing,Africa,3522,1.47,97.56,5177.34,505101.29
+Construction,Australia,1352,3.43,494.72,4637.36,2294194.74
+Construction,Asia,221,1.1,249.47,243.1,60646.16
+Technology,Europe,3527,2.58,71.52,9099.66,650807.68
+Retail,Europe,4232,2.96,67.11,12526.72,840668.18
+Construction,Asia,594,0.62,385.79,368.28,142078.74
+Manufacturing,Australia,556,2.51,346.57,1395.56,483659.23
+Healthcare,Africa,1645,3.35,410.96,5510.75,2264697.82
+Finance,Asia,2142,0.87,97.42,1863.54,181546.07
+Manufacturing,Middle East,405,3.19,66.01,1291.95,85281.62
+Manufacturing,Middle East,3301,2.28,278.86,7526.28,2098778.44
+Retail,Europe,494,2.35,224.42,1160.9,260529.18
+Technology,South America,437,2.34,257.88,1022.58,263702.93
+Technology,Africa,3620,1.4,496.21,5068.0,2514792.28
+Transportation,Europe,974,3.31,486.84,3223.94,1569542.95
+Retail,South America,4991,3.34,474.04,16669.94,7902218.36
+Healthcare,South America,4878,2.38,402.73,11609.64,4675550.32
+Technology,Middle East,1225,2.85,209.68,3491.25,732045.3
+Finance,Australia,4779,2.34,235.46,11182.86,2633116.22
+Construction,North America,4140,1.95,297.33,8073.0,2400345.09
+Retail,Australia,2010,2.48,423.74,4984.8,2112259.15
+Construction,North America,4825,2.16,80.92,10422.0,843348.24
+Manufacturing,Asia,3592,2.29,240.93,8225.68,1981813.08
+Finance,Middle East,4400,2.85,87.18,12540.0,1093237.2
+Finance,South America,4178,1.94,281.6,8105.32,2282458.11
+Manufacturing,Africa,4777,0.62,454.51,2961.74,1346140.45
+Retail,North America,2733,0.99,402.12,2705.67,1088004.02
+Manufacturing,Australia,2223,1.82,152.53,4045.86,617115.03
+Construction,South America,3140,2.67,489.2,8383.8,4101354.96
+Transportation,North America,986,2.28,350.31,2248.08,787524.9
+Finance,North America,4964,2.45,54.69,12161.8,665128.84
+Education,North America,3452,1.94,164.94,6696.88,1104583.39
+Education,Africa,708,2.35,167.32,1663.8,278387.02
+Construction,Middle East,4263,1.49,81.16,6351.87,515517.77
+Healthcare,Africa,3721,1.91,481.92,7107.11,3425058.45
+Technology,Europe,361,2.73,265.21,985.53,261372.41
+Manufacturing,South America,1744,3.12,453.12,5441.28,2465552.79
+Manufacturing,Middle East,4442,1.8,195.0,7995.6,1559142.0
+Healthcare,Middle East,1812,0.63,106.36,1141.56,121416.32
+Healthcare,Middle East,1779,0.99,263.45,1761.21,463990.77
+Construction,Australia,3232,0.56,101.28,1809.92,183308.7
+Construction,Middle East,1009,2.46,268.71,2482.14,666975.84
+Healthcare,Africa,2282,1.5,464.13,3423.0,1588716.99
+Finance,Middle East,2502,2.13,284.35,5329.26,1515375.08
+Construction,Asia,971,1.98,327.42,1922.58,629491.14
+Transportation,South America,742,0.74,120.49,549.08,66158.65
+Construction,Middle East,3409,1.71,69.68,5829.39,406191.9
+Manufacturing,South America,2099,1.16,99.86,2434.84,243143.12
+Construction,Asia,2737,1.76,319.34,4817.12,1538299.1
+Finance,Asia,2352,1.11,92.76,2610.72,242170.39
+Healthcare,South America,3396,3.02,219.2,10255.92,2248097.66
+Manufacturing,North America,4544,1.02,297.54,4634.88,1379062.2
+Construction,Europe,1520,3.38,224.89,5137.6,1155394.86
+Finance,Australia,305,1.75,123.66,533.75,66003.52
+Transportation,North America,3515,3.04,173.21,10685.6,1850852.78
+Construction,North America,2085,2.39,467.74,4983.15,2330818.58
+Finance,Africa,788,2.71,354.19,2135.48,756365.66
+Transportation,Australia,3077,2.8,273.22,8615.6,2353954.23
+Healthcare,Australia,4309,2.01,55.72,8661.09,482595.93
+Construction,North America,2181,2.13,496.59,4645.53,2306923.74
+Transportation,Middle East,3313,2.04,352.15,6758.52,2380012.82
+Manufacturing,Africa,966,2.26,192.62,2183.16,420520.28
+Healthcare,Africa,4946,0.59,445.67,2918.14,1300527.45
+Manufacturing,Asia,3355,1.69,166.29,5669.95,942855.99
+Education,Australia,4170,2.32,294.81,9674.4,2852109.86
+Retail,North America,4915,2.29,336.23,11255.35,3784386.33
+Construction,Asia,4893,2.88,149.48,14091.84,2106448.24
+Transportation,South America,1501,2.47,490.28,3707.47,1817698.39
+Retail,Europe,1921,3.48,386.69,6685.08,2585053.59
+Retail,Africa,3471,1.35,301.02,4685.85,1410534.57
+Transportation,South America,4084,1.58,131.27,6452.72,847048.55
+Healthcare,South America,74,1.65,74.24,122.1,9064.7
+Construction,Middle East,1843,1.9,194.03,3501.7,679434.85
+Education,Europe,3482,3.01,388.93,10480.82,4076305.32
+Manufacturing,South America,3099,1.21,171.2,3749.79,641964.05
+Finance,South America,852,2.83,292.8,2411.16,705987.65
+Manufacturing,Europe,4428,1.72,377.58,7616.16,2875709.69
+Finance,Europe,2826,2.31,98.57,6528.06,643470.87
+Manufacturing,South America,2510,2.4,358.38,6024.0,2158881.12
+Transportation,Europe,347,1.62,91.34,562.14,51345.87
+Education,South America,3330,2.04,484.31,6793.2,3290014.69
+Construction,South America,3320,1.74,269.78,5776.8,1558465.1
+Finance,Middle East,3695,0.71,117.8,2623.45,309042.41
+Construction,North America,3074,1.81,204.07,5563.94,1135433.24
+Construction,South America,2163,0.79,236.04,1708.77,403338.07
+Construction,Asia,1331,1.72,391.18,2289.32,895536.2
+Technology,Africa,3211,2.28,384.54,7321.08,2815248.1
+Healthcare,Australia,2558,2.24,325.37,5729.92,1864344.07
+Manufacturing,North America,4003,2.49,97.67,9967.47,973522.79
+Construction,North America,4567,0.79,118.21,3607.93,426493.41
+Manufacturing,North America,184,2.46,92.19,452.64,41728.88
+Construction,Middle East,4297,1.44,309.73,6187.68,1916510.13
+Finance,South America,842,1.7,444.71,1431.4,636557.89
+Healthcare,Middle East,963,3.07,245.21,2956.41,724941.3
+Healthcare,South America,4445,0.53,122.38,2355.85,288308.92
+Transportation,Middle East,794,2.27,301.12,1802.38,542732.67
+Technology,Middle East,2218,2.3,415.29,5101.4,2118560.41
+Transportation,Africa,3176,1.69,383.77,5367.44,2059862.45
+Transportation,Asia,4262,1.21,446.65,5157.02,2303382.98
+Transportation,Middle East,3715,1.2,175.06,4458.0,780417.48
+Transportation,Africa,3472,3.15,137.28,10936.8,1501403.9
+Transportation,Europe,934,1.83,445.92,1709.22,762175.38
+Education,Asia,1328,1.49,345.9,1978.72,684439.25
+Healthcare,Middle East,4197,1.85,189.92,7764.45,1474624.34
+Transportation,Australia,533,2.51,384.06,1337.83,513806.99
+Construction,North America,1940,0.94,416.8,1823.6,760076.48
+Healthcare,Europe,3614,1.85,326.74,6685.9,2184550.97
+Healthcare,Europe,4861,2.26,359.55,10985.86,3949965.96
+Retail,Africa,1429,3.35,218.87,4787.15,1047763.52
+Education,Europe,4822,1.26,292.41,6075.72,1776601.29
+Transportation,Asia,4586,1.58,285.87,7245.88,2071379.72
+Manufacturing,Middle East,3210,1.64,431.62,5264.4,2272220.33
+Finance,Middle East,4511,2.32,427.98,10465.52,4479033.25
+Technology,Australia,1575,1.57,424.71,2472.75,1050201.65
+Construction,North America,824,2.1,54.96,1730.4,95102.78
+Manufacturing,Africa,1299,2.85,387.3,3702.15,1433842.7
+Education,North America,3597,2.62,391.4,9424.14,3688608.4
+Finance,Europe,2921,1.84,355.27,5374.64,1909448.35
+Education,Australia,1407,3.09,390.32,4347.63,1696966.94
+Construction,North America,4708,2.17,428.89,10216.36,4381694.64
+Healthcare,Asia,2781,2.12,261.64,5895.72,1542556.18
+Finance,Middle East,2699,0.6,275.92,1619.4,446824.85
+Healthcare,Europe,2126,3.46,106.12,7355.96,780614.48
+Construction,Australia,4243,0.87,223.42,3691.41,824734.82
+Manufacturing,North America,4851,1.19,339.51,5772.69,1959885.98
+Construction,Africa,2788,0.66,401.18,1840.08,738203.29
+Manufacturing,Asia,3973,2.42,147.74,9614.66,1420469.87
+Finance,Asia,3206,1.17,112.02,3751.02,420189.26
+Finance,North America,3300,1.04,348.37,3432.0,1195605.84
+Transportation,Middle East,2593,0.77,50.85,1996.61,101527.62
+Education,North America,4636,0.81,130.27,3755.16,489184.69
+Transportation,Europe,2619,2.25,63.08,5892.75,371714.67
+Education,North America,4053,2.56,125.1,10375.68,1297997.57
+Transportation,Asia,256,1.69,131.59,432.64,56931.1
+Healthcare,Australia,1324,1.94,224.45,2568.56,576513.29
+Finance,North America,3450,2.56,231.05,8832.0,2040633.6
+Manufacturing,Middle East,1321,0.55,443.42,726.55,322166.8
+Education,Australia,2561,1.47,279.55,3764.67,1052413.5
+Construction,Africa,2071,3.42,375.53,7082.82,2659811.39
+Education,South America,461,2.24,96.86,1032.64,100021.51
+Manufacturing,North America,2096,1.26,151.45,2640.96,399973.39
+Transportation,Middle East,3200,2.07,366.32,6624.0,2426503.68
+Education,Australia,2677,1.53,73.76,4095.81,302106.95
+Technology,Middle East,3818,2.1,268.97,8017.8,2156547.67
+Healthcare,Africa,824,0.88,319.72,725.12,231835.37
+Finance,Asia,94,0.9,320.97,84.6,27154.06
+Manufacturing,Middle East,2195,0.93,60.32,2041.35,123134.23
+Finance,Australia,3944,3.32,194.95,13094.08,2552690.9
